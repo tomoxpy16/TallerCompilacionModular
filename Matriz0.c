@@ -5,6 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "modulo.h"
+#include "moduloVector.h"
 #define CAPACIDAD_INICIAL 4
 
 int main(int argc, char *argv[]){
