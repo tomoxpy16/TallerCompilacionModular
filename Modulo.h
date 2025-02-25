@@ -1,0 +1,14 @@
+#ifndef __MODULO_H__
+#define __MODULO_H__
+
+/****************************************
+* Fecha: 18 de Febrero 2025
+* Autor: Tomás Ospina Ulloa.
+* Materia: Sistemas Operativos
+* Tema: Memoria dinamica y operacion de multiplicacion de matrices, complejidad, creacion de benchmark, programacion modular y autom>**********************************************/
+
+void impMatriz(int *matriz, int S);
+void inicializar_matriz(int *Ma,int *Mb, int s);
+void multiplicar_Matriz(int *Ma,int *Mb,int *Mc,int s);
+
+#endif
