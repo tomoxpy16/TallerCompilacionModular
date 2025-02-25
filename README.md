@@ -14,3 +14,19 @@ Documentación del Código:
 ### Imprime las matrices en pantalla con recorridos for anidados.
 ## 3. Multiplicar Matriz
 ### Multiplica las matrices A y B antes inicializadas para crear una nueva matriz con el resultado de multiplicar A y B (la cual tendrá por nombre Matriz C).
+## 4. Vector Inicio
+### Usa memoria dinámica para inicializar un vector según un valor de CAPACIDAD_INICIAL.
+## 5. Total Vector 
+### Retorna el total de elementos del vector dinámico.
+## 6. Resize Vector
+### Cambia la cantidad de elementos del vector dinámico.
+## 7. Añadir Vector
+### Añade un vector a la memoria y al programa.
+## 8. Free Vector
+### Libera memoria para los vectores.
+## 9. Get Vector
+### Captura y retorna los elementos de un vector.
+## 10. Set Vector
+### Setter para el vector seleccionado.
+## 11. Borrar Vector
+### Borra un vector del programa.
